@@ -1,0 +1,25 @@
+.section-heading{
+    h3{
+        font-size: 3rem;
+        font-weight: bold;
+        text-transform: uppercase;
+        color: #1e1e1e;
+        margin-bottom: .5rem;
+        line-height: 1.2;
+    }
+    p{
+        color: #4e4e4e;
+        margin-bottom: 1rem;
+        font-size: 16px;
+        font-weight: 400;
+    }
+    .line-mf {
+        width: 40px;
+        height: 5px;
+        background-color: $theme-color;
+        margin: 0 auto;
+    }
+}
+.space{
+    margin-bottom: 30px;
+}
